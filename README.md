@@ -1,4 +1,4 @@
-# Docker Fundamnetals
+# Docker Fundamentals
  Docker Course Repo
 
 ## Build simple hello world image
